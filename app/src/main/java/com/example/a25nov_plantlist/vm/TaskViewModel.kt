@@ -1,4 +1,4 @@
-package com.example.a25nov_plantlist.tasklist
+package com.example.a25nov_plantlist.vm
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

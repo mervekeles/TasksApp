@@ -1,4 +1,4 @@
-package com.example.a25nov_plantlist
+package com.example.a25nov_plantlist.tasklist
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,9 +10,10 @@ import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.a25nov_plantlist.tasklist.TaskAdapter
-import com.example.a25nov_plantlist.tasklist.TaskViewModel
-import com.example.a25nov_plantlist.tasklist.TaskViewModelFactory
+import com.example.a25nov_plantlist.MyApp
+import com.example.a25nov_plantlist.R
+import com.example.a25nov_plantlist.vm.TaskViewModel
+import com.example.a25nov_plantlist.vm.TaskViewModelFactory
 
 class TasksFragment : Fragment() {
 

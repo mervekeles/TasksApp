@@ -11,7 +11,7 @@
         tools:layout="@layout/fragment_add_task"/>
     <fragment
         android:id="@+id/tasksFragment"
-        android:name="com.example.a25nov_plantlist.TasksFragment"
+        android:name="com.example.a25nov_plantlist.tasklist.TasksFragment"
         android:label="TasksFragment"
         tools:layout="@layout/fragment_tasks">
         <action

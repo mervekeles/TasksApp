@@ -10,8 +10,8 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
-import com.example.a25nov_plantlist.tasklist.TaskViewModel
-import com.example.a25nov_plantlist.tasklist.TaskViewModelFactory
+import com.example.a25nov_plantlist.vm.TaskViewModel
+import com.example.a25nov_plantlist.vm.TaskViewModelFactory
 
 class AddTaskFragment : Fragment() {
 
